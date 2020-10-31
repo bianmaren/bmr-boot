@@ -21,6 +21,25 @@
 | phone    | String | 否    | 电话    |
 | status    | int | 否    | 状态(1：正常  2：冻结 ）   |
 | delFlag    | int | 否    | 删除状态（0，正常，1已删除）   |
+| telephone    | String | 否    | 座机号   |
+| create_by    | String | 否    | 创建人   |
+| create_time    | String | 否    | 创建人   |
+| update_by    | String | 否    | 更新人   |
+| update_time    | String | 否    | 更新时间   |
+
+
+### 角色表 t_sys_role 
+| 字段名 | 字段类型 | 必填 | 说明 |
+| :-----| ----: | :----: | :----: |
+| id    | String | 是    | 主键    |
+| roleName | String | 是 | 角色名称 |
+| roleCode | String | 否 | 角色编码 |
+| description | String | 否 | 描述 |
+| create_by    | String | 否    | 创建人   |
+| create_time    | String | 否    | 创建人   |
+| update_by    | String | 否    | 更新人   |
+| update_time    | String | 否    | 更新时间   |
+
 
 
 
