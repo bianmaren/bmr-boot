@@ -24,7 +24,7 @@
 	
 	<modules>
 		<module>bmr-boot-public</module>
-		<module>bmr-boot-admin-api</module>
+		<module>bmr-boot-admin</module>
 	</modules>
 
     <dependencies>

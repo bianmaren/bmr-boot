@@ -9,10 +9,10 @@
 		<version>${revision}</version>
 	</parent>
 
-    <artifactId>bmr-boot-admin-api</artifactId>
+    <artifactId>bmr-boot-admin</artifactId>
     <version>${revision}</version>
-    <name>bmr-boot-admin-api</name>
-    <description>bmr-boot-admin-api</description>
+    <name>bmr-boot-admin</name>
+    <description>bmr-boot-admin</description>
 
     <dependencies>
        
